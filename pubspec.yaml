@@ -1,0 +1,17 @@
+name: vaxp_graph
+description: A comprehensive, high-performance graph algorithms library for Dart, built for speed and reliability in professional and educational projects.
+version: 0.1.0
+repository: https://github.com/vaxp/Vaxp-Graph
+homepage: https://vaxp.org
+license: MIT
+
+environment:
+  sdk: ^3.2.0
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
